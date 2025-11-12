@@ -14,3 +14,9 @@ Senior Software Architect
 ----
 
 Python | Django | JS/ES | ReactJS | Docker | PostgreSQL | Cassandra | ElasticSearch
+
+----
+
+#### Occasionally
+
+C/C++ | GDScript | Godot | Game Development  
